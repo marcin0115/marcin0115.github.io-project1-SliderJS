@@ -1,7 +1,7 @@
 # Slider JS
 
 Simple slider created with JavaScrit, trigger off function setInterval.
-Possibility additional change of slides by the use of keys (e.keyCode).
+We have a possibility to change slides by the use of keys (e.keyCode).
 
 ## Technologies
 Project is created with:
